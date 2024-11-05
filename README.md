@@ -1,4 +1,4 @@
 # lua-converter
-[![Build status](https://ci.appveyor.com/api/projects/status/aqk025i6ppq415ph/branch/master?svg=true)](https://ci.appveyor.com/project/MikeLankamp/lua-converter/branch/master)
+[![build](https://github.com/GlyphXTools/lua-converter/actions/workflows/build.yml/badge.svg)](https://github.com/GlyphXTools/lua-converter/actions/workflows/build.yml?query=branch%3Amaster)
 
 Converter between Lua and Petroglyph-Lua file formats
